@@ -3,8 +3,13 @@ Task list
 
 ## Basic Setup
 - [ ] Confirm core system rules
-    - [ ] Check types
-    - [ ] Check resolution
+    - [ ] Character definition
+        - [ ] Attributes
+        - [ ] Classes
+        - [ ] Skills
+        - [ ] Features
+    - [x] Check types
+    - [x] Check resolution
     - [ ] Level-up mechanics
         - [ ] Experience system
         - [ ] Level-up bonuses
